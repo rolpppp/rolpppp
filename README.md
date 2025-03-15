@@ -22,12 +22,14 @@ I am currently pursuing my Computer Science degree at the University of the Phil
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
+
+# ---
 
 ### 📫 Let's Connect
-- [Facebook](#) https://www.facebook.com/rolfgenree11.garces/
-- [LinkedIn](#) https://www.linkedin.com/in/rolf-genree-garces-b41316322/
-- [Email](#) rlgarces@up.edu.ph
+- [Facebook](#) <!--https://www.facebook.com/rolfgenree11.garces/-->
+- [LinkedIn](#) <!--https://www.linkedin.com/in/rolf-genree-garces-b41316322/-->
+- [Email](#) <!--rlgarces@up.edu.ph-->
 
 ---
 
