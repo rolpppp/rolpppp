@@ -2,7 +2,7 @@
 
 ## I'm Rolf, a Computer Science Student & Developer
 
-I am currently pursuing my Computer Science degree at the University of the Philippines Tacloban and passionate about building elegant solutions to real-world problems.
+I am currently pursuing my Computer Science degree at the University of the Philippines Tacloban and I am passionate about building solutions to real-world problems.
 
 ### About Me
 - 📚 2nd year Computer Science student
