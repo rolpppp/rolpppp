@@ -28,8 +28,8 @@ I am currently pursuing my Computer Science degree at the University of the Phil
 #
 
 ### 📫 Let's Connect
-- [Facebook](#) <!--https://www.facebook.com/rolfgenree11.garces/-->
-- [LinkedIn](#) <!--https://www.linkedin.com/in/rolf-genree-garces-b41316322/-->
-- [Email](#) <!--rlgarces@up.edu.ph-->
+- [Facebook](https://www.facebook.com/rolfgenree11.garces) <!--https://www.facebook.com/rolfgenree11.garces/-->
+- [Instagram](https://www.instagram.com/rolpppp/)
+- [LinkedIn](https://www.linkedin.com/in/rolf-genree-garces-b41316322) <!--https://www.linkedin.com/in/rolf-genree-garces-b41316322/--> <!--rlgarces@up.edu.ph-->
 
 ---
