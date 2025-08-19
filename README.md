@@ -5,14 +5,14 @@
 I am currently pursuing my Computer Science degree at the University of the Philippines Tacloban and I am passionate about building solutions to real-world problems.
 
 ### About Me
-- 📚 2nd year Computer Science student
-- 💻 Skilled in Python, Java, C, MySQL, and Flutter/Dart
+- 📚 3nd year Computer Science student
+- 💻 Skilled in Python, Java, C, MySQL, Flutter/Dart, HTML, CSS, and JavsScipt.
 - 🚀 Always exploring new technologies and frameworks
 - 🌱 Learning and growing with every project
 
 ### 🔭 What I'm working on
 - Expanding my knowledge of data structures and algorithms
-- Building mobile applications 
+- Focusing now on becoming a full stack web developer 
 
 ### 💻 Tech Stack
 
@@ -23,6 +23,11 @@ I am currently pursuing my Computer Science degree at the University of the Phil
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="HTML 5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS 3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <br />
 
 #
