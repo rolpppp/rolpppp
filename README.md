@@ -12,7 +12,7 @@ I am currently pursuing my Computer Science degree at the University of the Phil
 
 ### 🔭 What I'm working on
 - Expanding my knowledge of data structures and algorithms
-- Focusing now on becoming a full stack web developer 
+- Focusing now on becoming an AI Engineer
 
 ### 💻 Tech Stack
 
