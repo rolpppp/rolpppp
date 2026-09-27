@@ -5,8 +5,8 @@
 I am currently pursuing my Computer Science degree at the University of the Philippines Tacloban and I am passionate about building solutions to real-world problems.
 
 ### About Me
-- 📚 Incoming 4th year Computer Science student
-- 💻 Skilled in Python, Java, C, MySQL, Flutter/Dart, HTML, CSS, and JavsScipt.
+- 📚 4th year Computer Science student
+- 💻 Skilled in Python, PHP, Java, C, MySQL, Flutter/Dart, HTML, CSS, and JavsScipt.
 - 🚀 Always exploring new technologies and frameworks
 - 🌱 Learning and growing with every project
 
